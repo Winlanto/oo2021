@@ -3,6 +3,7 @@ public class Retsept {
     Hashtable<String, Double> ained = new Hashtable<String, Double>();
     public Set kysiAineNimed(){return ained.keySet();}
     public Hashtable<String, Double> kysiAined(){return ained;}
+
     public void lisa(String aine, double kogus){
         if(ained.containsKey(aine)){
             //System.out.println(ained.get(aine));
