@@ -1,0 +1,11 @@
+Jalgpallimängu objektide mudel
+
+Vektor(double x, double y)
+  kaugus(asukoht)
+  uusKoht(kiirus, aeg)
+LiikuvObjekt(asukoht, kiirus)
+Pall (liikuvObjekt, aeglustuskoef)
+Mangija(liikuvObjekt, meeskond)
+Meeskond(suund, punktid)
+  pallileLahimMangija()
+Staadion(0, 0, maxx, maxy)
