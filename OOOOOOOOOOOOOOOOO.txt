@@ -1,0 +1,131 @@
+alitud ülesanne:
+Kirjalik korrutamine
+
+· Väljastatakse failist loetud kahe arvu korrutis.
+· Etteantud arvude järgi kirjalik korrutamine on näha koos vahetulemustega.
+· Lisaks näidatakse, millised arvud pärastisel kokkuliitmisel meelde jäetakse.
+Vabad ülesanded:
+Algarvud
+
+· Teata, kas kasutaja sisestatud arv jagub kahe, kolme viie või seitsmega.
+· Teata, kas kasutaja sisestatud arv on algarv.
+· Koosta massiiv esimese tuhande algarvuga. Leia selle sõela abil, millised on kümme suurimat algarvu, mis on väiksemad, kui tuhandenda algarvu ruut.
+
+valitud: 3/3
+
+Murrud.
+
+· Kui sisestatud arvudest on lugeja suurem kui nimetaja, esita arv segaarvuna.
+(nt, 7/4 -> 1 3/4).
+· Liida kokku kaks murdu, esita tulemus segaarvuna.
+· Lisaks eelmisele taanda vastus.
+
+
+valitud: 4/3
+
+Kirjalik jagamine
+
+· Failist loetakse kaks arvu ning väljastatakse nende jagamise tulemus.
+· Lisaks eelmisele kontrollitakse, et ei jagataks nulliga.
+Jagatava alla kirjutatakse vastuse esimese numbri korrutis jagajaga.
+· Joonistatakse kasutaja antud arvude kirjalik jagamine etappide kaupa, kus
+on näha, millised korrutamised ja jagamised töö käigus tekivad.
+
+valitud: 1/2
+
+Kirjalik korrutamine
+
+· Väljastatakse failist loetud kahe arvu korrutis.
+· Etteantud arvude järgi kirjalik korrutamine on näha koos vahetulemustega.
+· Lisaks näidatakse, millised arvud pärastisel kokkuliitmisel meelde jäetakse.
+
+valitud: 1/2
+
+Kirjalik liitmine
+
+· Failist saadud kaks arvu sisestatakse üksteise alla, summa omakorda
+nende alla.
+· Lisaks eelmisele on näha, millised arvud meelde jäetakse.
+· Lisaks eelmisele võib liidetavaid arve olla suvaline arv
+
+valitud: 2/2
+
+Kirjalik lahutamine
+
+· Väljastatakse kahe sisestatud arvu vahe absoluutväärtus.
+· Ekraanile joonistatakse suurem arv üles, väiksem alla ning vahe kõige alla, kümnendkohad kohakuti.
+· Võlgu võetud väärtused tähistatakse punktiga.
+
+valitud: 2/2
+
+A-tähed tekstis
+
+* Loe programmi abil kokku, kui palju on tekstifailis a-tähti (nii suuri kui väikeseid)
+* Leia, kui palju oli a-tähti igas sõnas, sõnades keskmiselt, suhtarvuna tähtede üldarvu
+* Loe kokku, mitu sõna oli ühe, kahe, kolme jne a-tähega. Koosta tabel, kus ridadeks tähtede arv sõnas ning veergudeks a-tähtede arv. Lahtris näidatakse, mitu vastavat sõna oli tekstis.
+
+valitud: 2/2
+
+Geomeetriline keskmine
+
+* Koosta funktsioon, mis korrutab parameetritena antud kaks arvu ning võtab neist ruutjuure (Math.sqrt). Katseta.
+* Arve võib olla rohkem, need antakse ette kogumina. Arvud korrutatakse kokku ning võetakse niimitmes juur (astendaja pöördväärtus, Math.pow), kuimitu arvu oli.
+* Failis on viie aasta kohta koefitsiendid, kui palju igal aastal palk muutus. Samuti esimese aasta palk. Väljasta teise faili palk igal aastal neist ning võrdlusena kõrvale palk, kui sama alg- ja lõppsumma juures olnuks koefitsient arvutatud geomeetrilise keskmise abil.
+
+valitud: 2/2
+
+Harmooniline keskmine
+
+* Koosta funktsioon, mille sisendiks on kahe kilomeetripikkuse lõigu läbimise kiirused (km/h), väljundiks nende kahe kilomeetri läbimise keskmine kiirus.
+
+* Funktsioonile antakse ette kilomeetripikkuste lõikude läbimiste keskmised kiirused kogumina (km/h). Väljasta kogu selle tee läbimise keskmine kiirus.
+
+* Kilomeetriste lõikude läbimiste keskmised kiirused loetakse sisse veebiaadressilt, kogu teekonna läbimise keskmine kiirus salvestatakse faili.
+
+valitud: 1/2
+
+Kaalutud keskmine
+
+* Koosta funktsioon, kus antakse ette kahe ainekursuse ainepunktid ja hinded. Arvuta nende põhjal kaalutud keskmine.
+
+* Funktsioonile antakse ette kogumina õppeainete punktid ning teise kogumina nende ainete hinded. Leitakse kaalutud keskmine.
+
+* Õppuri läbitud kursuste nimed, hinded (A-F) ja punktid loetakse sisse failist. Tulemus kaalutud keskmise näol kirjutatakse teise faili.
+
+valitud: 1/2
+
+Kronoloogiline keskmine
+
+* Koosta funktsioon kolme arvu keskmise arvutamiseks nõnda, et esimesest ja viimasest võetakse pool, keskmisest kõik ning jagatakse tulemus kahega. Katseta.
+
+* Funktsioonile antakse kogumina ette arvud. Kronoloogilise keskmise arvutamiseks võetakse esimesest ja viimasest arvust pool, liidetakse muud arvud ning summa jagatakse andmestiku pikkusest ühe võrra väiksema arvuga.
+
+* Sisendfailis on kirjas igal real kuupäev ning mõõdetud temperatuur kell 0, 6, 12, 18 ja 24. Väljundfaili kirjuta kuupäev ning keskmine temperatuur nõnda arvutatuna, et kumbagi südaöist temperatuuri arvestatakse poole ulatuses, muid tervikuna.
+
+valitud: 2/2
+
+Autod teel
+
+* Koosta klass, kus on muutujates kirjas kahe auto kaugus maantee algusest (samast otsast) ning kummagi auto liikumiskiirus. Loo klassist mitu eksemplari ning trüki andmed välja.
+
+* Lisa klassile käsklus, mis määrab autode asukohtadeks nende asukohad parameetrina etteantud aja pärast. Trüki välja autode asukohad 3 sekundi, 5 minuti ja 2 tunni pärast.
+
+* Sisendandmed ja soovitud ajad loetakse tekstifailist, vastus kirjutatakse teise tekstifaili. Autode arv pole piiratud.
+
+valitud: 0/3
+
+Akvaarium
+
+* Loo klass akvaariumi tarbeks. Konstruktori sisendiks pikkus, laius ja kõrgus (cm). Koosta käsklus ruumala väljastamiseks.
+* Akvaariumi eksemplar hoiab meeles sees hoitava vee kogust. Käsuga saab vett lisada. Käsuga saab küsida, et kui palju on selles akvaariumis vett.
+* Akvaariume on mitu. Koosta käsklus määratud koguse vee valamiseks ühest akvaariumist teise. Kui akvaariumi servani jääb vähem kui kaks vaba sentimeetrit, väljastatakse hoiatus.
+
+valitud: 3/4
+
+Kilpkonn
+
+* Kilpkonna klassi eksemplaril on täisarvulise koordinaadina asukoht (x, y) ning suund (paremale, üles, vasakule, alla). Loo konstruktor andmete sisestamiseks ning käsklus oleku (asukoht + suund) trükkimiseks.
+* Kilpkonnal on käsud "edasi" ning "keeraParemale". Juhi kilpkonn nende käskude abil kõndima 8-kujulist teekonda. Küsi vahepeal kontrollimiseks koordinaate.
+* Lisa kilpkonnale käsklus kontrollimaks kaugust teisest kilpkonnast. Juhi käskudega kahte kilpkonna tasandil. Kui nad satuvad teineteisest vähem kui kolme ühiku kaugusele, väljasta hoiatus.
+
+valitud: 0/4
